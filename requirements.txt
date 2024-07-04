@@ -1,0 +1,6 @@
+transformers
+requests
+torch
+Image
+timm
+streamlit
